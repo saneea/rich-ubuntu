@@ -1,1 +1,1 @@
-docker container run -it --rm alexandersokol/rich-ubuntu
+docker container run -it --rm -v /:/hostfs alexandersokol/rich-ubuntu
