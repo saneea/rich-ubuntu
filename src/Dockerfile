@@ -6,4 +6,5 @@ run						\
 	&&	apt-get -y install iputils-ping	\
 	&&	apt-get -y install curl		\
 	&&	apt-get -y install default-jdk	\
-	&&      apt-get -y install git
+	&&      apt-get -y install git		\
+	&&      apt-get -y install maven
