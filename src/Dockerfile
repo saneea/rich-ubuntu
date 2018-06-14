@@ -13,6 +13,7 @@ run apt-get -y install wget
 run apt-get -y install screen
 run apt-get -y install maven
 run apt-get -y install libstdc++5
+run apt-get -y install software-properties-common
 
 run wget https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-ubuntu1604-3.6.0.tgz
 run tar -zxf ./mongodb-linux-x86_64-ubuntu1604-3.6.0.tgz
