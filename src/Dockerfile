@@ -15,4 +15,4 @@ run apt-get -y install maven
 run apt-get -y install libstdc++5
 run apt-get -y install software-properties-common
 
-ENV JAVA_HOME="/usr/lib/jvm/default-java"
+ENV JAVA_HOME="/usr/lib/jvm/java-11-openjdk-amd64"
