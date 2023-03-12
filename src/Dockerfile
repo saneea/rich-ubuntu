@@ -1,4 +1,4 @@
-from ubuntu:18.04
+from ubuntu:22.04
 
 run apt-get -y update
 run apt-get -y install vim
