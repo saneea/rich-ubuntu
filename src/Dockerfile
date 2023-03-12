@@ -14,5 +14,8 @@ run apt-get -y install screen
 run apt-get -y install maven
 run apt-get -y install libstdc++5
 run apt-get -y install software-properties-common
+run apt-get -y install sudo
+run apt-get -y install netcat
+run apt-get -y install ant
 
 ENV JAVA_HOME="/usr/lib/jvm/java-17-openjdk-amd64"
